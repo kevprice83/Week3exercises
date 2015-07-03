@@ -1,0 +1,108 @@
+.nav-bar__top {
+	height: 46px;
+	background: white;
+}
+
+.container {
+	margin: 0;
+}
+
+.home {
+	margin-top: 5px;
+}
+
+.notifications {
+	margin-top: 5px;
+}
+
+.labels {
+	color: #66757f;
+	margin-top: 8px;
+}
+
+.bird {
+	margin-left: 400px;
+	margin-top: -60px;
+}
+
+.jumbotron {
+  	background: url(https://pbs.twimg.com/profile_banners/1551130856/1399999084/1500x500) no-repeat center center;
+	height: 320px;
+	margin: 0px;
+}
+
+.button-link {
+	margin: 10px;
+}
+
+.nav-bar__bottom {
+	margin: 0px;
+	background: white;
+}
+
+.prof-pic {
+	border-radius: 8px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	margin-left: 50px;
+	margin-top: -190px; 
+	height: 200px; 
+	width: 200px;
+	box-shadow: 0 1px 1px rgba(136,153,166,0.15);
+}
+
+.main-page {
+	background-color: #f5f8fa;
+}
+
+.button__tweet {
+	margin: 10px;
+	color: #009999;
+}
+
+.box {
+	
+	box-sizing: border-box;
+	background: white;
+	margin: 0;
+	padding: 0;
+	box-shadow: 0 1px 1px rgba(136,153,166,0.15);
+}
+
+.media {
+	border-bottom: 1px solid #e1e8ed;
+	background: white;
+	font-size: 14px;
+	position: relative;
+  	min-height: 51px;
+  	padding: 9px 12px;
+  	border-radius: 5px;
+}
+
+.media-object {
+	float: left;
+  	margin-top: 3px;
+  	margin-left: -8px;
+  	width: 48px;
+  	height: 48px;
+  	border-radius: 5px;
+}
+
+/*.box {
+	border-radius: 8px;
+	vertical-align: top;
+	width: 100%;
+	top: 2.5em;
+	box-sizing: border-box;
+	background: white;
+	margin: 0, 0, 0, 0;
+	padding: 5px;
+	box-shadow: 0 1px 1px rgba(136,153,166,0.15);
+}
+
+.box__header {
+	font-size: 1.5em;
+	color: #4A4A4A;
+
+}*/
